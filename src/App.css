@@ -12,8 +12,8 @@
 }
 #button{
   border:1px solid white;
-  color:white;
-  background-color:black;
+  color:black;
+  background-color:whitesmoke;
   font-size: 20px;
   padding: 15px 20px 15px 20px;
   opacity:95%;
@@ -21,9 +21,8 @@
 #button:hover{
  
   margin-left:10px;
-
-  background-color:whitesmoke;
-  color:black;
+  background-color:black;
+  color:white;
   transition: 0.5s;
 }
 
