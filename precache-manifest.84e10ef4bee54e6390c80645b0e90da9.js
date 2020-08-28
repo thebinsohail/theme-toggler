@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f7bf34b2e46f6c70c90c114cff17ebcf",
+    "revision": "b31a12e918d1295634e85e5e5ba75b7f",
     "url": "/theme-toggler/index.html"
   },
   {
-    "revision": "3968d7910892a14169d8",
-    "url": "/theme-toggler/static/css/main.ee98cf68.chunk.css"
+    "revision": "3d46c6f38c02cffa1dc4",
+    "url": "/theme-toggler/static/css/main.4dabf961.chunk.css"
   },
   {
     "revision": "c9efb2d3dc3c11f9e258",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/theme-toggler/static/js/2.96d49e17.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3968d7910892a14169d8",
+    "revision": "3d46c6f38c02cffa1dc4",
     "url": "/theme-toggler/static/js/main.66f4aab0.chunk.js"
   },
   {
