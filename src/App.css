@@ -2,6 +2,7 @@
 .day {
   transition:1s;
   padding: 200px;
+  
   background-color:white;
 }
 .night{
@@ -11,9 +12,9 @@
   color:white;
 }
 #button{
-  border:1px solid white;
-  color:black;
-  background-color:whitesmoke;
+  border:1px solid purple;
+  color:white;
+  background-color:purple;
   font-size: 20px;
   padding: 15px 20px 15px 20px;
   opacity:95%;
