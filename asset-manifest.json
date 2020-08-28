@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/theme-toggler/static/css/main.26e5fb69.chunk.css",
+    "main.js": "/theme-toggler/static/js/main.ff6dd896.chunk.js",
+    "main.js.map": "/theme-toggler/static/js/main.ff6dd896.chunk.js.map",
+    "runtime-main.js": "/theme-toggler/static/js/runtime-main.00a00bd3.js",
+    "runtime-main.js.map": "/theme-toggler/static/js/runtime-main.00a00bd3.js.map",
+    "static/js/2.96d49e17.chunk.js": "/theme-toggler/static/js/2.96d49e17.chunk.js",
+    "static/js/2.96d49e17.chunk.js.map": "/theme-toggler/static/js/2.96d49e17.chunk.js.map",
+    "index.html": "/theme-toggler/index.html",
+    "precache-manifest.c1be6c29cf9487710fcb0dc32c06e0e4.js": "/theme-toggler/precache-manifest.c1be6c29cf9487710fcb0dc32c06e0e4.js",
+    "service-worker.js": "/theme-toggler/service-worker.js",
+    "static/css/main.26e5fb69.chunk.css.map": "/theme-toggler/static/css/main.26e5fb69.chunk.css.map",
+    "static/js/2.96d49e17.chunk.js.LICENSE.txt": "/theme-toggler/static/js/2.96d49e17.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/theme-toggler/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00a00bd3.js",
+    "static/js/2.96d49e17.chunk.js",
+    "static/css/main.26e5fb69.chunk.css",
+    "static/js/main.ff6dd896.chunk.js"
+  ]
+}
