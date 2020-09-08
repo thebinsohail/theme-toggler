@@ -6,7 +6,7 @@ function Button() {
 
 
     return (
-        <Row>
+       
     
         <div className={`state ${isDay ? 'day' : 'night'}`}>
             
@@ -16,13 +16,13 @@ function Button() {
             <button id="button" onClick={() => setNight(!isDay)} className="btn">
                 <span>Turn to {isDay ? 'Dark Theme' : 'Light Theme'}</span></button>
                
-            <div>
+           
              
                 <h1 style={{ textAlign: 'center', paddingTop: '200px' }}>Random Words</h1>
                
                 <p id="words">
-                    
-                <Col sm={6} xs={6} lg={12}>  
+                <Row>
+                <Col sm={12} xs={12} lg={12}>  
                 His followed carriage proposal entrance directly had elegance. Greater for cottage gay parties natural. Remaining he furniture on he discourse suspected perpetual. Power dried her taken place day ought the. Four and our ham west miss. Education shameless who middleton agreement how. We in found world chief is at means weeks smile.
 
                 Necessary ye contented newspaper zealously breakfast he prevailed. Melancholy middletons yet understood decisively boy law she. Answer him easily are its barton little. Oh no though mother be things simple itself. Dashwood horrible he strictly on as. Home fine in so am good body this hope.
@@ -43,14 +43,16 @@ function Button() {
 
                 John draw real poor on call my from. May she mrs furnished discourse extremely. Ask doubt noisy shade guest did built her him. Ignorant repeated hastened it do. Consider bachelor he yourself expenses no. Her itself active giving for expect vulgar months. Discovery commanded fat mrs remaining son she principle middleton neglected. Be miss he in post sons held. No tried is defer do money scale rooms.
                 </Col>
+                </Row>
                 </p>
-            </div>
-           
+               
+            
+          
 
 
 
         </div>
-        </Row>
+       
 
     )
 

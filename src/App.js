@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-// import Nav from './components/Nav'
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Button from './components/Button'
 function App() {
   return (
