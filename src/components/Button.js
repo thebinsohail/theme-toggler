@@ -7,25 +7,23 @@ function Button() {
 
     return (
        
-    
-        <div className={`state ${isDay ? 'day' : 'night'}`}>
+    <div>
+        <div className={`state ${isDay ? 'day' : 'night'} container text-center`}>
             
             <h1>You're using {isDay ? 'Light' : 'Dark'} Theme</h1>
            
                
-            <button id="button" onClick={() => setNight(!isDay)} className="btn">
+            <button id="button" onClick={() => setNight(!isDay)} className="btn btn-primary">
                 <span>Turn to {isDay ? 'Dark Theme' : 'Light Theme'}</span></button>
                
            
              
                 <h1 style={{ textAlign: 'center', paddingTop: '200px' }}>Random Words</h1>
-               
+               <div className="container-fluid text-center">
                 <p id="words">
-                <Row>
-                <Col sm={12} xs={12} lg={12}>  
-                His followed carriage proposal entrance directly had elegance. Greater for cottage gay parties natural. Remaining he furniture on he discourse suspected perpetual. Power dried her taken place day ought the. Four and our ham west miss. Education shameless who middleton agreement how. We in found world chief is at means weeks smile.
-
-                Necessary ye contented newspaper zealously breakfast he prevailed. Melancholy middletons yet understood decisively boy law she. Answer him easily are its barton little. Oh no though mother be things simple itself. Dashwood horrible he strictly on as. Home fine in so am good body this hope.
+                
+             
+                His followed carriage proposal entrance directly had elegance. Greater for cottage gay parties natural. Remaining he furniture on he discourse suspected perpetual. Power dried her taken place day ought the. Four and our ham west miss. Education shameless who middleton agreement how. We in found world chief is at means weeks smile.Necessary ye contented newspaper zealously breakfast he prevailed. Melancholy middletons yet understood decisively boy law she. Answer him easily are its barton little. Oh no though mother be things simple itself. Dashwood horrible he strictly on as. Home fine in so am good body this hope.
 
                 Pleased him another was settled for. Moreover end horrible endeavor entrance any families. Income appear extent on of thrown in admire. Stanhill on we if vicinity material in. Saw him smallest you provided ecstatic supplied. Garret wanted expect remain as mr. Covered parlors concern we express in visited to do. Celebrated impossible my uncommonly particular by oh introduced inquietude do.
 
@@ -42,17 +40,16 @@ function Button() {
                 Her old collecting she considered discovered. So at parties he warrant oh staying. Square new horses and put better end. Sincerity collected happiness do is contented. Sigh ever way now many. Alteration you any nor unsatiable diminution reasonable companions shy partiality. Leaf by left deal mile oh if easy. Added woman first get led joy not early jokes.
 
                 John draw real poor on call my from. May she mrs furnished discourse extremely. Ask doubt noisy shade guest did built her him. Ignorant repeated hastened it do. Consider bachelor he yourself expenses no. Her itself active giving for expect vulgar months. Discovery commanded fat mrs remaining son she principle middleton neglected. Be miss he in post sons held. No tried is defer do money scale rooms.
-                </Col>
-                </Row>
-                </p>
                
+                </p>
+                </div>
             
           
 
 
 
         </div>
-       
+       </div>
 
     )
 
