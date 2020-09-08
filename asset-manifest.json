@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/theme-toggler/static/css/main.8ab4f719.chunk.css",
+    "main.css": "/theme-toggler/static/css/main.b6be2684.chunk.css",
     "main.js": "/theme-toggler/static/js/main.fa2e8300.chunk.js",
     "main.js.map": "/theme-toggler/static/js/main.fa2e8300.chunk.js.map",
     "runtime-main.js": "/theme-toggler/static/js/runtime-main.00a00bd3.js",
@@ -9,10 +9,10 @@
     "static/js/2.fd3fc8dd.chunk.js": "/theme-toggler/static/js/2.fd3fc8dd.chunk.js",
     "static/js/2.fd3fc8dd.chunk.js.map": "/theme-toggler/static/js/2.fd3fc8dd.chunk.js.map",
     "index.html": "/theme-toggler/index.html",
-    "precache-manifest.822773d957f3d0dedfceb2acd0fb35ce.js": "/theme-toggler/precache-manifest.822773d957f3d0dedfceb2acd0fb35ce.js",
+    "precache-manifest.64d164bfc5d0d1d3200ff1ce97e0e9d1.js": "/theme-toggler/precache-manifest.64d164bfc5d0d1d3200ff1ce97e0e9d1.js",
     "service-worker.js": "/theme-toggler/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/theme-toggler/static/css/2.11829350.chunk.css.map",
-    "static/css/main.8ab4f719.chunk.css.map": "/theme-toggler/static/css/main.8ab4f719.chunk.css.map",
+    "static/css/main.b6be2684.chunk.css.map": "/theme-toggler/static/css/main.b6be2684.chunk.css.map",
     "static/js/2.fd3fc8dd.chunk.js.LICENSE.txt": "/theme-toggler/static/js/2.fd3fc8dd.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/theme-toggler/static/media/logo.5d5d9eef.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.00a00bd3.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.fd3fc8dd.chunk.js",
-    "static/css/main.8ab4f719.chunk.css",
+    "static/css/main.b6be2684.chunk.css",
     "static/js/main.fa2e8300.chunk.js"
   ]
 }
